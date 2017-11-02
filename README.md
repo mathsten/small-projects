@@ -1,5 +1,5 @@
 # Small projects
-Not worthy an own repository
+###### Not worthy an own repository
 
-Disclaimer:
+## Disclaimer:
 These projects/files will probably not work, and they exist here mainly as backup.
